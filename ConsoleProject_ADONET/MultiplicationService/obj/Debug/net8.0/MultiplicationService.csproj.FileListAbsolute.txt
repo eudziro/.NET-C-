@@ -1,0 +1,12 @@
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/bin/Debug/net8.0/MultiplicationService.deps.json
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/bin/Debug/net8.0/MultiplicationService.dll
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/bin/Debug/net8.0/MultiplicationService.pdb
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.AssemblyInfoInputs.cache
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.AssemblyInfo.cs
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.csproj.CoreCompileInputs.cache
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.sourcelink.json
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.dll
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/refint/MultiplicationService.dll
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/MultiplicationService.pdb
+/Users/evgenii/Projects/2024-2025-ADONET/ConsoleProject_ADONET/MultiplicationService/obj/Debug/net8.0/ref/MultiplicationService.dll

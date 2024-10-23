@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationService", "MultiplicationService\MultiplicationService.csproj", "{6E9F40A5-6F1A-4F2E-8DEA-40151B4236F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationService.Tests", "MultiplicationService.Tests\MultiplicationService.Tests.csproj", "{64849A6C-05CF-402D-8536-316AB10775F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9F40A5-6F1A-4F2E-8DEA-40151B4236F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9F40A5-6F1A-4F2E-8DEA-40151B4236F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9F40A5-6F1A-4F2E-8DEA-40151B4236F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9F40A5-6F1A-4F2E-8DEA-40151B4236F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64849A6C-05CF-402D-8536-316AB10775F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64849A6C-05CF-402D-8536-316AB10775F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64849A6C-05CF-402D-8536-316AB10775F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64849A6C-05CF-402D-8536-316AB10775F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
